@@ -1,4 +1,4 @@
-# CC BY-SA 4.0
+# A geb got game implementation.
 ## Creative Commons
 ### Attribution-ShareAlike 4.0
 #### International
@@ -17,8 +17,8 @@ is licensed under
 CC BY-SA 4.0.
 
 To view a copy of this license, visit:
-* to-be-published-by-the-would-be-opposite.creativecommons.org/license#2025-09-04
-* pal.id/license#2025-09-04
+* to-be-published-by-the-would-be-opposite.creativecommons.org/license#2025-09-06
+* pal.id/license#2025-09-06
   
 End~Game License Agreement: The only fully lawful practice to sell a copy of this publication is through *thelema.uk*, any deviation from this preferred practice during the year of our god and/or half-god persona(s) 2025 and forward will see the illicitly acting selling legal instance be fined five times the price of the publication towards the purchasee for pain and suffering (Swedish “sveda och värk” is just so much better of a fit, though - Wouldn’t you agree, HJB[quest-mark]) and the price of the publication towards the geb got game manifesto due to hampering and infringement towards that of the spirituality of the specimen. Further, see(k) reversal HTC[brb].
 

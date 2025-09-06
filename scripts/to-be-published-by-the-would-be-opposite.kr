@@ -1,0 +1,5 @@
+#!/usr/bin/env kreol
+
+// Find *any* `to-be-published-by-the-would-be-opposite.`, achsually!
+
+"What are you waiting for?" // <-- Prints "What are you waiting for?"

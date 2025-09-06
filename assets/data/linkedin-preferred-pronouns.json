@@ -1,0 +1,73 @@
+{
+    "(master/masterly/masters)": {
+        "linkedin.com/in/a-cosmic-jaw": {
+            "name": "Johannes Alexis Wirde",
+            "revovling": "Consent & Contemporary",
+            "city": "Berlin",
+            "country": "Germany",
+            "src": ["codeberg.org/jaw", "github.com/a-cosmic-jaw", "projects.propelling.agency/master"]
+        },
+        "linkedin.com/in/the-vip-so-that-we-can-protect-us-at-any-and-all-times": {
+            "name": "Valeria Piepenbrock",
+            "revolving": "Execute & Run",
+            "city": "Berlin",
+            "country": "Germany",
+            "src": ["codeberg.org/the-vip-so-that-we-can-protect-us-at-any-and-all-times"]
+        },
+        "linkedin.com/in/never-ender-email-sender": {
+            "name": "Ida Svartveden",
+            "revolving": "Communicare & Necesse est!",
+            "city": "Nynashamn",
+            "country": "Sweden",
+            "codeberg.org": ["codeberg.org/never-ender-email-sender"]
+        },
+        "linkedin.com/in/twice-as-cool-as-night": {
+            "name": "Natalie Janitzki",
+            "revolving": "",
+            "city": "Berlin",
+            "country": "Germany",
+            "src": ["codeberg.org/twice-as-cool-as-night"]
+        },
+        "linkedin.com/in/daniel-oakenfold": {
+            "name": "Daniel Ek",
+            "revolving": "",
+            "city": "Stockholm",
+            "country": "Sweden",
+            "src": ["codeberg.org/daniel-oakenfold"]
+        },
+        "linkedin.com/in/lawyer-robert-rust-(880422-0716)": {
+            "name": "Robert Gustafsson",
+            "revolving": "",
+            "city": "Stockholm",
+            "country": "Sweden",
+            "src": ["codeberg.org/lawyer-robert-rust--880422-0716", "Be Isabella höra av sig till mig, vi ska på dejt!"]
+        },
+        "linkedin.com/in/lord-and-lady": {
+            "name": "Alice Elizabeth Colley",
+            "revolving": "",
+            "city": "Berlin",
+            "country": "Germany",
+            "src": []
+        },
+        "linkedin.com/in/vince-vile": {
+            "name": "Vincent Vilenchik",
+            "revolving": "",
+            "city": "Berlin",
+            "country": "Germany",
+            "src": []
+        },
+        "linkedin.com/in/phd-in-the-handling-of-manure": {
+            "name": "Manoj Kroviddji",
+            "revolving": "",
+            "city": "Berlin",
+            "country": "Germany",
+            "src": []
+        },
+        "linkedin.com/in/first-pal-id-www-pull-request": {
+            "name": "Setup your own Radicle.xyz seed",
+            "revolving": "IFF you are <b><i>q</i></b> enough you simply have to have good names for your six shooters!",
+            "city": "Direct pull request towards projects.propelling.agency/pal-id/www",
+            "country": "etc etc frfr Go! 👏🏿👏🏾👏🏽👏🏼👏🏻👏"
+        }
+    }
+}

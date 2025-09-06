@@ -1,0 +1,35 @@
+body {
+  margin-left:20%;
+  margin-right:20%;
+  font-family:monospace;
+  padding:0px;
+}
+
+/* The CSS rules for printing go here */
+@media print {
+    .page-break {
+        page-break-after: always;
+        padding-bottom: 500px;
+        padding-top: 500px;
+        border-bottom: 1px black dashed;
+    }
+    .no-break-inside {
+        page-break-inside: avoid;
+    }
+}
+
+#geb-got-game-manifesto {
+  width: 70%;
+}
+
+#master-masterly-masters {
+  width: 70%;
+}
+
+#spotify-got-game-too {
+  width: 70%;
+}
+
+#rando-image {
+  width: 70%;
+}

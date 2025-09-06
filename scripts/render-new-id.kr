@@ -1,0 +1,5 @@
+#!/usr/bin/env kreol
+
+// 1. Check root of repo for next available id
+// 2. Allowed character(s): a-zA-Z1-6 (Yeah, this is going to go on for a while...)
+// 3. Automate the pullrequest towards that of: projects.propelling.agency/pal-id/www

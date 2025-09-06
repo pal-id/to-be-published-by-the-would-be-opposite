@@ -1,0 +1,402 @@
+[
+{
+"name": "United States Dollar",
+"symbol": "USD",
+"type": "Fiat"
+},
+{
+"name": "Euro",
+"symbol": "EUR",
+"type": "Fiat"
+},
+{
+"name": "Japanese Yen",
+"symbol": "JPY",
+"type": "Fiat"
+},
+{
+"name": "British Pound Sterling",
+"symbol": "GBP",
+"type": "Fiat"
+},
+{
+"name": "Australian Dollar",
+"symbol": "AUD",
+"type": "Fiat"
+},
+{
+"name": "Canadian Dollar",
+"symbol": "CAD",
+"type": "Fiat"
+},
+{
+"name": "Swiss Franc",
+"symbol": "CHF",
+"type": "Fiat"
+},
+{
+"name": "Chinese Yuan",
+"symbol": "CNY",
+"type": "Fiat"
+},
+{
+"name": "Swedish Krona",
+"symbol": "SEK",
+"type": "Fiat"
+},
+{
+"name": "New Zealand Dollar",
+"symbol": "NZD",
+"type": "Fiat"
+},
+{
+"name": "South Korean Won",
+"symbol": "KRW",
+"type": "Fiat"
+},
+{
+"name": "Hong Kong Dollar",
+"symbol": "HKD",
+"type": "Fiat"
+},
+{
+"name": "Norwegian Krone",
+"symbol": "NOK",
+"type": "Fiat"
+},
+{
+"name": "Mexican Peso",
+"symbol": "MXN",
+"type": "Fiat"
+},
+{
+"name": "Indian Rupee",
+"symbol": "INR",
+"type": "Fiat"
+},
+{
+"name": "Russian Ruble",
+"symbol": "RUB",
+"type": "Fiat"
+},
+{
+"name": "Brazilian Real",
+"symbol": "BRL",
+"type": "Fiat"
+},
+{
+"name": "South African Rand",
+"symbol": "ZAR",
+"type": "Fiat"
+},
+{
+"name": "Singapore Dollar",
+"symbol": "SGD",
+"type": "Fiat"
+},
+{
+"name": "Turkish Lira",
+"symbol": "TRY",
+"type": "Fiat"
+},
+{
+"name": "Philippine Peso",
+"symbol": "PHP",
+"type": "Fiat"
+},
+{
+"name": "Polish Złoty",
+"symbol": "PLN",
+"type": "Fiat"
+},
+{
+"name": "Thai Baht",
+"symbol": "THB",
+"type": "Fiat"
+},
+{
+"name": "Indonesian Rupiah",
+"symbol": "IDR",
+"type": "Fiat"
+},
+{
+"name": "Malaysian Ringgit",
+"symbol": "MYR",
+"type": "Fiat"
+},
+{
+"name": "United Arab Emirates Dirham",
+"symbol": "AED",
+"type": "Fiat"
+},
+{
+"name": "Danish Krone",
+"symbol": "DKK",
+"type": "Fiat"
+},
+{
+"name": "Hungarian Forint",
+"symbol": "HUF",
+"type": "Fiat"
+},
+{
+"name": "Czech Koruna",
+"symbol": "CZK",
+"type": "Fiat"
+},
+{
+"name": "Israeli New Shekel",
+"symbol": "ILS",
+"type": "Fiat"
+},
+{
+"name": "Colombian Peso",
+"symbol": "COP",
+"type": "Fiat"
+},
+{
+"name": "Chilean Peso",
+"symbol": "CLP",
+"type": "Fiat"
+},
+{
+"name": "Peruvian Sol",
+"symbol": "PEN",
+"type": "Fiat"
+},
+{
+"name": "Argentine Peso",
+"symbol": "ARS",
+"type": "Fiat"
+},
+{
+"name": "Uruguayan Peso",
+"symbol": "UYU",
+"type": "Fiat"
+},
+{
+"name": "Venezuelan Bolívar",
+"symbol": "VES",
+"type": "Fiat"
+},
+{
+"name": "Egyptian Pound",
+"symbol": "EGP",
+"type": "Fiat"
+},
+{
+"name": "Nigerian Naira",
+"symbol": "NGN",
+"type": "Fiat"
+},
+{
+"name": "Kenyan Shilling",
+"symbol": "KES",
+"type": "Fiat"
+},
+{
+"name": "Ghanaian Cedi",
+"symbol": "GHS",
+"type": "Fiat"
+},
+{
+"name": "Moroccan Dirham",
+"symbol": "MAD",
+"type": "Fiat"
+},
+{
+"name": "Tunisian Dinar",
+"symbol": "TND",
+"type": "Fiat"
+},
+{
+"name": "Algerian Dinar",
+"symbol": "DZD",
+"type": "Fiat"
+},
+{
+"name": "Iraqi Dinar",
+"symbol": "IQD",
+"type": "Fiat"
+},
+{
+"name": "Iranian Rial",
+"symbol": "IRR",
+"type": "Fiat"
+},
+{
+"name": "Saudi Riyal",
+"symbol": "SAR",
+"type": "Fiat"
+},
+{
+"name": "Qatari Riyal",
+"symbol": "QAR",
+"type": "Fiat"
+},
+{
+"name": "Bahraini Dinar",
+"symbol": "BHD",
+"type": "Fiat"
+},
+{
+"name": "Kuwaiti Dinar",
+"symbol": "KWD",
+"type": "Fiat"
+},
+{
+"name": "Omani Rial",
+"symbol": "OMR",
+"type": "Fiat"
+},
+{
+"name": "Vietnamese Dong",
+"symbol": "VND",
+"type": "Fiat"
+},
+{
+"name": "Philippine Peso",
+"symbol": "PHP",
+"type": "Fiat"
+},
+{
+"name": "Pakistani Rupee",
+"symbol": "PKR",
+"type": "Fiat"
+},
+{
+"name": "Bangladeshi Taka",
+"symbol": "BDT",
+"type": "Fiat"
+},
+{
+"name": "Sri Lankan Rupee",
+"symbol": "LKR",
+"type": "Fiat"
+},
+{
+"name": "Nepalese Rupee",
+"symbol": "NPR",
+"type": "Fiat"
+},
+{
+"name": "Myanmar Kyat",
+"symbol": "MMK",
+"type": "Fiat"
+},
+{
+"name": "Afghan Afghani",
+"symbol": "AFN",
+"type": "Fiat"
+},
+{
+"name": "Albanian Lek",
+"symbol": "ALL",
+"type": "Fiat"
+},
+{
+"name": "Armenian Dram",
+"symbol": "AMD",
+"type": "Fiat"
+},
+{
+"name": "Azerbaijani Manat",
+"symbol": "AZN",
+"type": "Fiat"
+},
+{
+"name": "Bosnia and Herzegovina Convertible Mark",
+"symbol": "BAM",
+"type": "Fiat"
+},
+{
+"name": "Bulgarian Lev",
+"symbol": "BGN",
+"type": "Fiat"
+},
+{
+"name": "Croatian Kuna",
+"symbol": "HRK",
+"type": "Fiat"
+},
+{
+"name": "Cypriot Pound",
+"symbol": "CYP",
+"type": "Fiat"
+},
+{
+"name": "Estonian Kroon",
+"symbol": "EEK",
+"type": "Fiat"
+},
+{
+"name": "Georgian Lari",
+"symbol": "GEL",
+"type": "Fiat"
+},
+{
+"name": "Icelandic Króna",
+"symbol": "ISK",
+"type": "Fiat"
+},
+{
+"name": "Kazakhstani Tenge",
+"symbol": "KZT",
+"type": "Fiat"
+},
+{
+"name": "Kyrgyzstani Som",
+"symbol": "KGS",
+"type": "Fiat"
+},
+{
+"name": "Lao Kip",
+"symbol": "LAK",
+"type": "Fiat"
+},
+{
+"name": "Lebanese Pound",
+"symbol": "LBP",
+"type": "Fiat"
+},
+{
+"name": "Moldovan Leu",
+"symbol": "MDL",
+"type": "Fiat"
+},
+{
+"name": "Mongolian Tögrög",
+"symbol": "MNT",
+"type": "Fiat"
+},
+{
+"name": "Norwegian Krone",
+"symbol": "NOK",
+"type": "Fiat"
+},
+{
+"name": "Romanian Leu",
+"symbol": "RON",
+"type": "Fiat"
+},
+{
+"name": "Serbian Dinar",
+"symbol": "RSD",
+"type": "Fiat"
+},
+{
+"name": "Tajikistani Somoni",
+"symbol": "TJS",
+"type": "Fiat"
+},
+{
+"name": "Ukrainian Hryvnia",
+"symbol": "UAH",
+"type": "Fiat"
+},
+{
+"name": "Uzbekistani Soʻm",
+"symbol": "UZS",
+"type": "Fiat"
+}
+]
