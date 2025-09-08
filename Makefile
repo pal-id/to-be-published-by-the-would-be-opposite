@@ -12,8 +12,9 @@ update-file-list:
 
 .PHONY: update-hardcoded-ids-list
 update-hardcoded-ids-list:
-	find . -name ".id-hardcoded" | sed 's/^\.\///' | sed 's/.id-hardcoded//' > assets/data/ids-hardcoded.tsv
-
+	find . -name ".id-hardcoded" | sed 's/^\.\///' | sed 's/.id-hardcoded//' > /tmp/palid-ids.txt
+	scripts/py/hardcoded-ids-to-markdown.py
+	
 .PHONY: count-tlds
 count-tld:
 	cat assets/data/subs/tlds.html | grep "domain tld" | wc -l  > assets/data/subs/count-tlds.txt

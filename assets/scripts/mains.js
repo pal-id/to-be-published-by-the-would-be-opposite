@@ -56,9 +56,10 @@ async function mains(mains) {
         .then(html => {
             // Insert the HTML content into the 'mains' div
             mainDiv.innerHTML = html;
-
+            console.log(mains);
             if (mains == "todo") loadMarkdown("/TODO.md", "todoData");
             else if (mains == "instructions") loadMarkdown("/README.md", "instructionsData");
+            else if (mains == "ids-hardcoded") loadMarkdown("/mains/hardcoded-ids.md", "idsHardcodedData");
             else if (mains == "subs") mainsSubs();
         })
         .catch(error => {
