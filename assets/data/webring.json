@@ -1,11 +1,9 @@
-[
-    "master-masterly-masters.it",
-    "master-masterly-masters.eu",
-    "master-masterly-masters.biz",
-    "finest-di.ing",
-    "geb.lol",
-    "just-fine.xyz",
-    "just-fine.wtf",
-    "this-is-completely-unstoppable.lol",
-    "to-be-published-by-the-would-be-opposite.world"
-]
+{
+    "master-masterly-masters.it": ["finest-di.ing", "geb.lol"],
+    "geb.lol": ["master-masterly-masters.it", "just-fine.xyz"],
+    "just-fine.xyz": ["geb.lol", "just-fine.wtf"],
+    "just-fine.wtf": ["just-fine.xyz", "this-is-completely-unstoppable.lol"],
+    "this-is-completely-unstoppable.lol": ["just-fine.wtf", "to-be-published-by-the-would-be-opposite.world"],
+    "to-be-published-by-the-would-be-opposite.world": ["this-is-completely-unstoppable.lol", "finest-di.ing"],
+    "finest-di.ing": ["to-be-published-by-the-would-be-opposite.world", "master-masterly-masters.it"]
+}
