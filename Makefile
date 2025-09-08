@@ -4,7 +4,7 @@ change:
 
 .PHONY: consent-and-contemporary
 consent-and-contemporary:
-	git aa && git cm "You lot should cease oogling the git logs and start actively supporting me instead, FFS" && git po
+	git aa && git cm "You lot should cease oogling the git logs and start actively supporting me instead, FFS" && git po && git push github
 
 .PHONY: update-file-list
 update-file-list:
