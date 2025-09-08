@@ -1,120 +1,84 @@
-# TO BE PUBLISHED BY THE WOULD BE OPPOSITE
-## For Future References
+# WWW
+## Instructions
+Have no fear, I is hear!
 
 << musick: Paul Engemann -- Scarface (Push It To The Limit) >>
 
-## T-Shirts
-As you add them, I'll delete 'em!
+Pay. Attention!
 
-### Fronts
-#### 3.
-The picture of the manifesto (the screenshot in the /assets folder)
-pal.id/just-fine
-#### 4.
-<Do something nice with the "/assets/data/topic-sender.json"!>
+**Now fork off!**
 
-#### 9.
-<The picture assets/t-shirts/fire-it-up.png>
+## The Game (that sadly was never given a proper title or attention to ANY detail up until *NOW!*👏)
+* Stop causing unnecessary friction towards the concept that is `(master/masterly/masters)`.
+* It is not allowed to write things down in the game! (Not me comming up with that rule, frfr 🤦)
+* While Manoj is out and about - If he even gets TOUCHED he goes into isolation!
+  * ... when he smokes DMT **alot** happens!
+* Go listen to [Valeria Frattini](https://www.valeriafrattini.com) (on a streaming platform of choice!) - I'm her biggest fan!
+  * See(k) out a local instansiation of [Sea of Shadows](https://sea.shadow/world-wide-wallop) after [Dan](/partakers-of-loitering) has started and maintained the company (on his expense!).
+    * ... membership is free!
 
-caption: Please give my regards to R. Scott Bakker!
+## A Set of 🫡 General Instructions!
+### misc
+* I have a couple of more domains to register, could you kanske Swisha some dricks?
+  * ... Further, I'm going to THE AMERICAS (Haven't been for a while, act!) så Swisha gärna lite more, dårå! 🥰
+* If you didn't have my contact details before, why should you bother finding and using them now? (for other then the Swisha)
+  * Elvis has left the building!
+* ... instead, get cranking choosing your <i><b>q</b></i></li> domain! (keep it witty/finicky, spiritual and for life!)
+* [Porkbun](https://Porkbun.com) usually have good prices due to their "at cost" program!
+  * ... but for those so inclined [European Alternatives](https://european-alternatives.eu/) has some good European... Well, alernatives - LOL :D
+  * Please [Domainr](https://domainr.com) take the site down! I need to get stuff done!! :P
+    * How long before [domming.](https://domming.propelling.agency) is a better, more spiritual alternative?
+* Buy the books on Amazon! (You can have email aliases on Proton Mail and Simple Login, just sayin')
+* Amazon: Get cranking on "to-be-published-by-the-would-be-opposite."! Woho! (just mirror the repo, alr!)
+* Why not add yourself to the [TiP (beta)](https://codeberg.org/jaw/tip) possibleness?
+  * All adds gets rewarded 1000 €! (According to protocol!)
+* How long before TPB has a "pal.id" section?
+  * ... or 'tracking.pal.id' is a thing?
+* Is .krml happening? Or do we prefer .hgml?
+* Don't bother with my "johannes.wirde@gmail.com", "johannes.wirde@pm.me" or "pattern.match@pm.me", I won't ever check those again!
+* Buy and read the [book](/a-psychoticks-tale.com/), people! ... it really helps us out!
 
-https://en.wikipedia.org/wiki/Wikipedia:Disambiguation
-#### 10.
-<the pictures in assets/natalie>
+### The Webring
+* An accepted pull request towards that of [pal-id/start-a-store](https://propelling.agency/pal-id/www) (the backend) wins a vegan icecream! :D (On the <a href="https://propelling.agency">PA</a>'s expense!)
 
-caption: *Twice* as cool as night!
-#### 12.
-Finest fineprint we ever saw!
-pal.id/LICENSE.qd
-pal.id/just-fine
+### sub-rosa
+* Those of you (private persons and companies alike) that has been gifted sub-rosa emails from me, use them wisely - If the adress ever gets emailed from any other email address not relevant I'll simply cut you off. (Ask first, maybe?)
+* I *give* sub-rosa's when I so darn please.
 
-#### 21.
-The geb got game manifesto.
-subtitle: What is the next masterly move?
+### Mental Healthcare Ambulance
+* The PA will definetly have one in ALL countries
+  * ... and each of the [*A Skanner Darklies*](https://scanning.exchange), too!
+  * ... and each of the [PoDS](https://pods.shop)?
 
+### techies
+* Pull-requesters:
+  * ... no darn NPM!
+  * ... No hidden messages in the code or other bullshit.
+* Maybe check with [Gimply](https://g.co/gemini/share/4cfb5c52af2d) on how to start a revolution?
+  * ... Also, do you think [kritters.](https://kritters.propelling.agency) is going to compete well with the other heavy hitters?
+* [Plan.io](https://plan.io/): If we could upgrade to include Zulip, that'd be great!
 
-#### 24.
-Change! -- Propelling Agency
+### musick
+* [SubKult](https://www.subkultfestivalen.se/): Get IAMX and NiN onboard for next year! (What will the ticket price be?)
+  * 3TEETH: Should've bought you beers and energy drinks for metal bikram yoga, is SubKult 2027 a good enough plåster på såren? :D #pincolla
+  * Once your "to-be-published-by-the-would-be-opposite"-subdomain is up, add a DNS TXT record stating "it-began-in.africa/sfx/&lt;URI&gt;" to a sound file of crappy quality and a maximum length of two sec!
+    * ... containing a stellar spiritual message!
+  * Also, [*maybe*](https://www.reddit.com/r/XFiles/comments/1naop77/i_made_this_credits_sound/)? Succesful relevant pul request winns a M&G with the concept (master/masterly/masters) in Berlin, Germany! 
 
-#### 25.
-KREOL: Act your story!
+### Bethard
+* Where are we on the [cookie](https://www.animalhouseshelter.com/pets/devin/)...?
+  * Private jet!
+  * Silver platter!
 
-#### 26.
-Don’t q.Id around!
-Give me my data!
-q: Store(s)!
+### Publisdrive
+* Is this public domain for you enough or are you hinting about becomming my first [gobble-gobble](/lawliest-agreement)?
+  * ... or do you think there is an open-source solution with better reach "somewhere"?
 
-#### 27.
-#kreowledge is Pow!:er
+### N26, et al
+* WHAT IS THE DARN HOLD UP?!?!?!?
+  
+#### Greetings of the naught and immaterial,
 
-#### 29.
-att.: *Twice* as cool as night!
-geb--Night
-ashen.fashion
-chain.berlin
+<b><i>q</i></b> ! `parono.asia` - 🔫 Consent & Contemporary 🔫
 
-instructions: "geb--Night" should be with a longer line, not doubble
-
-#### 31.
-Be Part of No.thing Standard!
-subtitle: Publish your PoNS today!
-
-#### 34.
-There's a lot master doesnt know!
-(Regretfully?)
-
-#### 36.
-Not There and Back Again
-(That’ll rally them up! Hehe!)
-A #Psychotick:s Tale
-#P1 -- pal.id/o.0
-
-#### 38.
-A #Psychotick:s Tale
-- (#P1/P17/#P13) ±
-
-#### 41.
-When Deathpoism Comes to Town
-A deathologists head crushing dilemma!
-euro.tube/kids-in-the-hall
-
-#### 42.
-Because of the Fall of Because
-Appendix to the International Beastseller “Not There and Back Again”! Woho!
-A #Psychotick:s Tale
-#P17
-
-#### 43.
-Public Email Emergency Channel
-Private Emergency Alarm Channel
-#PEEC a-thchoo!!!
-PEAC a-boo!!
-#PEAC a-Pow!:er
-
-#### 45.
-<The screenshot of the manifesto>
-What masters next move?
-
-comment to the designer: Yes, the first "PEAC" is w/o "#"
-
-### Back
-The content of LICENSE.md! ... or an edited version of LICENSE.qd? Hehe! :D
-
-### Just do it!
-* [redbubble.com/geb-got-game](https://www.redbubble.com/geb-got-game)
-* [spreadshirt.se/geb-got-game](https://www.spreadshirt.se/geb-got-game)
-* [publishdrive.com/geb-got-game](https://publishdrive.com/geb-got-game)
-... and statistics on /geb-got-greenlight! Woho!
-
-Yes, just design the t-shirts and put them up! I don't have all the time in the world! (Yet!) etc etc frfr Go! 👏
-
-(Going to be rather interesting to see the difference in designs between Redbubble and Spreadshirt, wouldn't we agree?)
-
-1. Don't cause unnecessary friction!
-2. Stop writing things down! (Sorry no sorry but I don't call the shots on this... It's in the book!)
-   
-... Either one of these would be hurtful to our presence!
-
-<< musick: The frozen Autumn -- Is Everything Real? >>
-
-**q** ! `parono.asia` - 🔫 Consent & Contemporary 🔫
+Regretfully I wasn't on LSD for the entirity of the experience!

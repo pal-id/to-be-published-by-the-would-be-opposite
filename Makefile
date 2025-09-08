@@ -21,3 +21,7 @@ count-tld:
 .PHONY: extract-linkedin
 extract-linkedin:
 	find a-first-serie-of-peecs -name "index.html" | xargs sed 's/"/\n/g' - | grep "linkedin.com/comp" | sort | uniq > assets/data/peecs-li-urls.csv
+
+.PHONY: mirror-a-psychoticks-tale
+ mirror-a-psychoticks-tale:
+	cp ~/dev
