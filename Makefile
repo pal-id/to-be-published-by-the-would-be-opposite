@@ -26,3 +26,8 @@ extract-linkedin:
 .PHONY: mirror-a-psychoticks-tale
  mirror-a-psychoticks-tale:
 	cp ~/dev
+
+.PHONY: subs-broadcast-email
+subs-broadcast-email:
+	./scripts/py/subs-to-email-broadcast.py | grep "@" | sort | uniq | grep -v "amazon" > ../kaka.txt
+
