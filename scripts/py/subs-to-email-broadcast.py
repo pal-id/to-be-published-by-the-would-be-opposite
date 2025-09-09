@@ -29,6 +29,8 @@ def get_domains_from_json(file_path):
                                 print("info@"+item['domain'])
                                 print("admin@"+item['domain'])
                                 print("support@"+item['domain'])
+                                print("emergency@"+item['domain'])
+                                print("peec@"+item['domain'])
                     else:
                         print("Warning: 'domain' key not found in an item.")
             else:
@@ -42,8 +44,5 @@ def get_domains_from_json(file_path):
         print(f"An unexpected error occurred: {e}")
 
 if __name__ == "__main__":
-    # Define the path to your JSON file.
-    file_path = "assets/data/extract-linkedin.json"
-    
-    # Call the function to process the file.
-    get_domains_from_json(file_path)
+    get_domains_from_json("assets/data/extract-linkedin.json")
+    get_domains_from_json("assets/data/pa-system.json")

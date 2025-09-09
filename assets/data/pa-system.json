@@ -1,0 +1,478 @@
+[
+{
+"company": "Walmart",
+"domain": "walmart.com"
+},
+{
+"company": "Amazon",
+"domain": "amazon.com"
+},
+{
+"company": "Exxon Mobil",
+"domain": "exxonmobil.com"
+},
+{
+"company": "Apple",
+"domain": "apple.com"
+},
+{
+"company": "UnitedHealth Group",
+"domain": "unitedhealthgroup.com"
+},
+{
+"company": "CVS Health",
+"domain": "cvshealth.com"
+},
+{
+"company": "Berkshire Hathaway",
+"domain": "berkshirehathaway.com"
+},
+{
+"company": "Alphabet",
+"domain": "abc.xyz"
+},
+{
+"company": "McKesson",
+"domain": "mckesson.com"
+},
+{
+"company": "Chevron",
+"domain": "chevron.com"
+},
+{
+"company": "AmerisourceBergen",
+"domain": "amerisourcebergen.com"
+},
+{
+"company": "Cardinal Health",
+"domain": "cardinalhealth.com"
+},
+{
+"company": "Costco Wholesale",
+"domain": "costco.com"
+},
+{
+"company": "Microsoft",
+"domain": "microsoft.com"
+},
+{
+"company": "Walgreens Boots Alliance",
+"domain": "walgreens.com"
+},
+{
+"company": "Marathon Petroleum",
+"domain": "marathonpetroleum.com"
+},
+{
+"company": "Ford Motor",
+"domain": "ford.com"
+},
+{
+"company": "The Home Depot",
+"domain": "homedepot.com"
+},
+{
+"company": "Phillips 66",
+"domain": "phillips66.com"
+},
+{
+"company": "Johnson & Johnson",
+"domain": "jnj.com"
+},
+{
+"company": "Valero Energy",
+"domain": "valero.com"
+},
+{
+"company": "General Motors",
+"domain": "gm.com"
+},
+{
+"company": "Verizon",
+"domain": "verizon.com"
+},
+{
+"company": "AT&T",
+"domain": "att.com"
+},
+{
+"company": "Kroger",
+"domain": "thekrogerco.com"
+},
+{
+"company": "ICANN",
+"domain": "icann.org"
+},
+{
+"company": "Spotify",
+"domain": "spotify.com"
+},
+{
+"company": "Amazon Web Services (AWS)",
+"domain": "aws.amazon.com"
+},
+{
+"company": "Bahnhof AB (Publ)",
+"domain": "bahnhof.se"
+},
+{
+"company": "Google",
+"domain": "https://www.google.com/search?q=google.com"
+},
+{
+"company": "teenage engineering",
+"domain": "teenage.engineering"
+},
+{
+"company": "Cisco",
+"domain": "cisco.com"
+},
+{
+"company": "Oracle",
+"domain": "oracle.com"
+},
+{
+"company": "Meta",
+"domain": "meta.com"
+},
+{
+"company": "Hugging Face",
+"domain": "huggingface.co"
+},
+{
+"company": "Facebook",
+"domain": "facebook.com"
+},
+{
+"company": "Dell Technologies",
+"domain": "dell.com"
+},
+{
+"company": "Lenovo",
+"domain": "lenovo.com"
+},
+{
+"company": "OpenAI",
+"domain": "openai.com"
+},
+{
+"company": "xAI",
+"domain": "x.ai"
+},
+{
+"company": "NVIDIA",
+"domain": "nvidia.com"
+},
+{
+"company": "JetBrains",
+"domain": "jetbrains.com"
+},
+{
+"company": "Wikipedia",
+"domain": "wikipedia.org"
+},
+{
+"company": "OrangePI",
+"domain": "orangepi.org"
+},
+{
+"company": "Raspberry Pi",
+"domain": "raspberrypi.org"
+},
+{
+"company": "Planio",
+"domain": "plan.io"
+},
+{
+"company": "DeepL",
+"domain": "deepl.com"
+},
+{
+"company": "Kagi",
+"domain": "kagi.com"
+},
+{
+"company": "Canonical",
+"domain": "canonical.com"
+},
+{
+"company": "Red Hat",
+"domain": "redhat.com"
+},
+{
+"company": "GitHub",
+"domain": "github.com"
+},
+{
+"company": "Codeberg e.V.",
+"domain": "codeberg.org"
+},
+{
+"company": "TikTok",
+"domain": "tiktok.com"
+},
+{
+"company": "https://www.google.com/search?q=Alibaba.com",
+"domain": "https://www.google.com/search?q=alibaba.com"
+},
+{
+"company": "Intel Corporation",
+"domain": "intel.com"
+},
+{
+"company": "AMD",
+"domain": "amd.com"
+},
+{
+"company": "IBM",
+"domain": "ibm.com"
+},
+{
+"company": "Perplexity",
+"domain": "perplexity.ai"
+},
+{
+"company": "Anthropic",
+"domain": "anthropic.com"
+},
+{
+"company": "Blocket",
+"domain": "blocket.se"
+},
+{
+"company": "Delivery Hero",
+"domain": "deliveryhero.com"
+},
+{
+"company": "LG Electronics",
+"domain": "lge.com"
+},
+{
+"company": "Uber",
+"domain": "uber.com"
+},
+{
+"company": "UberEat",
+"domain": "ubereats.com"
+},
+{
+"company": "Wolt",
+"domain": "wolt.com"
+},
+{
+"company": "Ethereum Foundation",
+"domain": "ethereum.org"
+},
+{
+"company": "Reddit, Inc.",
+"domain": "redditinc.com"
+},
+{
+"company": "SAP",
+"domain": "sap.com"
+},
+{
+"company": "Salesforce",
+"domain": "salesforce.com"
+},
+{
+"company": "Yahoo",
+"domain": "yahoo.com"
+},
+{
+"company": "Palantir Technologies",
+"domain": "palantir.com"
+},
+{
+"company": "Ecosia",
+"domain": "ecosia.org"
+},
+{
+"company": "Schibsted",
+"domain": "schibsted.com"
+},
+{
+"company": "DICE",
+"domain": "dice.se"
+},
+{
+"company": "Deezer",
+"domain": "deezer.com"
+},
+{
+"company": "Bosch",
+"domain": "bosch.com"
+},
+{
+"company": "IKEA",
+"domain": "ikea.com"
+},
+{
+"company": "Mitsubishi Corporation",
+"domain": "https://www.google.com/search?q=mitsubishicorp.com"
+},
+{
+"company": "TSMC",
+"domain": "tsmc.com"
+},
+{
+"company": "Broadcom",
+"domain": "broadcom.com"
+},
+{
+"company": "Foxconn",
+"domain": "foxconn.com"
+},
+{
+"company": "Nine Dragons Paper Holdings Limited",
+"domain": "ndpaper.com"
+},
+{
+"company": "SK hynix",
+"domain": "skhynix.com"
+},
+{
+"company": "Qualcomm",
+"domain": "qualcomm.com"
+},
+{
+"company": "Micron Technology",
+"domain": "micron.com"
+},
+{
+"company": "ASML",
+"domain": "asml.com"
+},
+{
+"company": "Applied Materials",
+"domain": "appliedmaterials.com"
+},
+{
+"company": "Embraer",
+"domain": "embraer.com"
+},
+{
+"company": "Bombardier",
+"domain": "bombardier.com"
+},
+{
+"company": "Baumer",
+"domain": "baumer.com"
+},
+{
+"company": "Proterra",
+"domain": "proterra.com"
+},
+{
+"company": "SolarYacht",
+"domain": "solaryacht.com"
+},
+{
+"company": "Dangote Industries Limited",
+"domain": "https://www.google.com/search?q=dangote.com"
+},
+{
+"company": "Dangote Cement Plc",
+"domain": "dangotecement.com"
+},
+{
+"company": "Dangote Petroleum & Petrochemicals",
+"domain": "https://www.google.com/search?q=dangote-petroleum.com"
+},
+{
+"company": "Orascom Construction PLC",
+"domain": "orascom.com"
+},
+{
+"company": "Hassan Allam Holding",
+"domain": "hassanallam.com"
+},
+{
+"company": "The Arab Contractors",
+"domain": "arabcont.com"
+},
+{
+"company": "Sappi",
+"domain": "sappi.com"
+},
+{
+"company": "China North Industries Dalian Corp.",
+"domain": "https://www.google.com/search?q=daliancorp.com"
+},
+{
+"company": "UPS",
+"domain": "ups.com"
+},
+{
+"company": "DHL",
+"domain": "dhl.com"
+},
+{
+"company": "Hengli Group",
+"domain": "hengli.com"
+},
+{
+"company": "Siemens",
+"domain": "siemens.com"
+},
+{
+"company": "Atmel Corporation",
+"domain": "https://www.google.com/search?q=atmel.com"
+},
+{
+"company": "Flux Computing",
+"domain": "flux.com"
+},
+{
+"company": "Vishay Intertechnology, Inc.",
+"domain": "vishay.com"
+},
+{
+"company": "Samsung Electronics",
+"domain": "samsung.com"
+},
+{
+"company": "Samsung Semiconductor",
+"domain": "samsungsemiconductor.com"
+},
+{
+"company": "Armadillo Aerospace",
+"domain": "https://www.google.com/search?q=armadilloaerospace.com"
+},
+{
+"company": "British Airways",
+"domain": "britishairways.com"
+},
+{
+"company": "GomSpace",
+"domain": "gomspace.com"
+},
+{
+"company": "Orbital Machines",
+"domain": "orbitalmachines.com"
+},
+{
+"company": "Ericsson",
+"domain": "ericsson.com"
+},
+{
+"company": "Tesla",
+"domain": "tesla.com"
+},
+{
+"company": "AUDI AG",
+"domain": "audi.com"
+},
+{
+"company": "Bollinger Motors",
+"domain": "bollingermotors.com"
+},
+{
+"company": "Reaction Engines",
+"domain": "reactionengines.co.uk"
+},
+{
+"company": "STARLINK",
+"domain": "starlink.com"
+}
+]

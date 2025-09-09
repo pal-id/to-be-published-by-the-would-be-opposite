@@ -76,6 +76,7 @@
 - [ ] matt@lunartik.com is done with the logo for the PA!
 - [ ] N26: Just validate my fucking account, alr! You have my passport pic, since a fair while back, FFS! What is the hold-up?!?!
 - [ ] Marylands smartest cookie delivered!
+- [ ] The concept of "Americano" rebranded "Canadiano". Hello, yes?!
 - [ ] ???
 - [ ] Profit!
   - [ ] Just fine!
