@@ -5,5 +5,6 @@
     "just-fine.wtf": ["just-fine.xyz", "this-is-completely-unstoppable.lol"],
     "this-is-completely-unstoppable.lol": ["just-fine.wtf", "to-be-published-by-the-would-be-opposite.world"],
     "to-be-published-by-the-would-be-opposite.world": ["this-is-completely-unstoppable.lol", "finest-di.ing"],
-    "finest-di.ing": ["to-be-published-by-the-would-be-opposite.world", "master-masterly-masters.it"]
+    "finest-di.ing": ["to-be-published-by-the-would-be-opposite.world", "finest.help"],
+    "finest.help": ["finest-di.ing", "master-masterly-masters.it"]
 }
