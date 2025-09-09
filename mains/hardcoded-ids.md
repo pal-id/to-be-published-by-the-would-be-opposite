@@ -7,6 +7,7 @@
 * [/bootstrapping-on-a-shoestring-budget/](bootstrapping-on-a-shoestring-budget/)
 * [/partakers-of-loitering/](partakers-of-loitering/)
 * [/the-last-cv-i-ever-wrote/](the-last-cv-i-ever-wrote/)
+* [/the-lawnmower-man/](the-lawnmower-man/)
 * [/a-historical-transfer/](a-historical-transfer/)
 * [/a-sly-face/](a-sly-face/)
 * [/a-first-serie-of-peecs/](a-first-serie-of-peecs/)
