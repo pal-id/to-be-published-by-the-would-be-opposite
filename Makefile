@@ -24,8 +24,8 @@ extract-linkedin:
 	find a-first-serie-of-peecs -name "index.html" | xargs sed 's/"/\n/g' - | grep "linkedin.com/comp" | sort | uniq > assets/data/peecs-li-urls.csv
 
 .PHONY: mirror-a-psychoticks-tale
- mirror-a-psychoticks-tale:
-	cp ~/dev
+mirror-a-psychoticks-tale:
+	cp -R ~/dev/codeberg.org/jaw/a-psychoticks-tale a-psychoticks-tale.com
 
 .PHONY: subs-broadcast-email
 subs-broadcast-email:
