@@ -26,6 +26,10 @@ extract-linkedin:
 .PHONY: mirror-a-psychoticks-tale
 mirror-a-psychoticks-tale:
 	cp -R ~/dev/codeberg.org/jaw/a-psychoticks-tale a-psychoticks-tale.com
+	cd a-psychoticks-tale.com
+	rm -Rf .git
+	cd ..
+	git aa && git cm "Updating a-psychoticks-tale.com mirror" && git po && git bitbucket && git github
 
 .PHONY: subs-broadcast-email
 subs-broadcast-email:
