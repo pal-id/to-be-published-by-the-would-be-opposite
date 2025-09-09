@@ -11,6 +11,7 @@
 * [/a-sly-face/](a-sly-face/)
 * [/a-first-serie-of-peecs/](a-first-serie-of-peecs/)
 * [/stellar-work-drives/](stellar-work-drives/)
+* [/see-a-stitch--heat-the-bitch/](see-a-stitch--heat-the-bitch/)
 * [/got-them-by-the-balls/](got-them-by-the-balls/)
 * [/deathpoism/a-structured-set-of-therapy-sessions/](deathpoism/a-structured-set-of-therapy-sessions/)
 * [/deathpoism/a-deathologists-first-publication/](deathpoism/a-deathologists-first-publication/)
