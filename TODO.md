@@ -1,6 +1,6 @@
 # TODO
 - [ ] Employ John Carmack
-- [ ] ❤️⭐❤️ Stay fine and safe as your boobs! ❤️⭐❤️
+- [ ] ❤️⭐❤️ Stay safe, safe as your boobs! ❤️⭐❤️
 - [ ] Employ Ryan Dahl
 - [ ] Employ Linus Torvalds?
 - [ ] Integrate with publishers so that their authors pal.id publications gets automatedly added to the site.
