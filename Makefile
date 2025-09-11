@@ -12,7 +12,7 @@ update-file-list:
 
 .PHONY: update-hardcoded-ids-list
 update-hardcoded-ids-list:
-	find . -name ".id-hardcoded" | sed 's/^\.\///' | sed 's/.id-hardcoded//' > /tmp/palid-ids.txt
+	find . -name ".id-hardcoded" | sed 's/^\.\///' | sed 's/.id-hardcoded//' | sort > /tmp/palid-ids.txt
 	scripts/py/hardcoded-ids-to-markdown.py
 	
 .PHONY: count-tlds
